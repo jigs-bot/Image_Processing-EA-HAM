@@ -1,0 +1,4 @@
+(1)--> https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html
+
+-----------------Getting Started With Images-------------
+(2)--> https://docs.opencv.org/4.x/db/deb/tutorial_display_image.html
